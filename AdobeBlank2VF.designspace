@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="3">
+    <axes>
+        <axis default="0.0" maximum="1000.0" minimum="0.0" name="width" tag="wdth"/>
+        <axis default="0.0" maximum="1000.0" minimum="0.0" name="height" tag="HGHT">
+            <labelname xml:lang="en">Height</labelname>
+            <labelname xml:lang="ja">&#x9AD8;&#x3055;</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source filename="Blank2/Master_0/Master_0.ufo">
+            <lib copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="width" xvalue="0"/>
+                <dimension name="height" xvalue="0"/>
+            </location>
+        </source>
+        <source filename="Blank2/Master_1/Master_1.ufo">
+            <location>
+                <dimension name="width" xvalue="1000"/>
+                <dimension name="height" xvalue="0"/>
+            </location>
+        </source>
+
+        <source filename="Blank2/Master_2/Master_2.ufo">
+            <location>
+                <dimension name="width" xvalue="0"/>
+                <dimension name="height" xvalue="1000"/>
+            </location>
+        </source>
+        <source filename="Blank2/Master_3/Master_3.ufo">
+            <location>
+                <dimension name="width" xvalue="1000"/>
+                <dimension name="height" xvalue="1000"/>
+            </location>
+        </source>
+    </sources>
+</designspace>

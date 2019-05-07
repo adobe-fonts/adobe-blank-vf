@@ -1,0 +1,77 @@
+# Adobe Blank VF
+
+[AdobeBlankVF]
+	f=Adobe Blank VF
+	s=R
+	l=Adobe Blank VF R
+
+[AdobeBlankVF_1]
+	f=Adobe Blank VF
+	s=Master 1
+
+[AdobeBlankVF_2]
+	f=Adobe Blank VF
+	s=Master 2
+
+[AdobeBlankVF_3]
+	f=Adobe Blank VF
+	s=Master 3
+
+# Adobe Black VF
+
+[AdobeBlackVF]
+	f=Adobe Black VF
+	s=R
+	l=Adobe Black VF R
+
+[AdobeBlackVF_1]
+	f=Adobe Black VF
+	s=Master 1
+
+[AdobeBlackVF_2]
+	f=Adobe Black VF
+	s=Master 2
+
+[AdobeBlackVF_3]
+	f=Adobe Black VF
+	s=Master 3
+
+# Adobe Blank 2 VF
+
+[AdobeBlank2VF]
+	f=Adobe Blank 2 VF
+	s=R
+	l=Adobe Blank 2 VF R
+
+[AdobeBlank2VF_1]
+	f=Adobe Blank 2 VF
+	s=Master 1
+
+[AdobeBlank2VF_2]
+	f=Adobe Blank 2 VF
+	s=Master 2
+
+[AdobeBlank2VF_3]
+	f=Adobe Blank 2 VF
+	s=Master 3
+
+# Adobe Black 2 VF
+
+[AdobeBlack2VF]
+	f=Adobe Black 2 VF
+	s=R
+	l=Adobe Black 2 VF R
+
+[AdobeBlack2VF_1]
+	f=Adobe Black 2 VF
+	s=Master 1
+
+[AdobeBlack2VF_2]
+	f=Adobe Black 2 VF
+	s=Master 2
+
+[AdobeBlack2VF_3]
+	f=Adobe Black 2 VF
+	s=Master 3
+
+# EOF

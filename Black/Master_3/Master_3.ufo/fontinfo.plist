@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>postscriptFontName</key>
+	<string>AdobeBlackVF_3</string>
+	<key>styleName</key>
+	<string></string>
+	<key>familyName</key>
+	<string>Adobe Black VF</string>
+	<key>trademark</key>
+	<string>Copyright 2013-2019 Adobe (http://www.adobe.com/).</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>postscriptFullName</key>
+	<string>AdobeBlackVF</string>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-150</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-250</integer>
+		<integer>-250</integer>
+		<integer>1100</integer>
+		<integer>1100</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>50</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>50</integer>
+	</array>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+</dict>
+</plist>
