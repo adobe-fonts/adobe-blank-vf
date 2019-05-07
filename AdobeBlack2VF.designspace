@@ -36,4 +36,14 @@
             </location>
         </source>
     </sources>
+    <instances>
+        <instance familyname="Adobe Black 2 VF" postscriptfontname="AdobeBlack2VF" stylename="R">
+            <location>
+                <dimension name="width" xvalue="0" />
+                <dimension name="height" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
 </designspace>
