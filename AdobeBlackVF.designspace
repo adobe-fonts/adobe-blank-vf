@@ -37,7 +37,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Adobe Black VF" postscriptfontname="AdobeBlackVF" stylename="R">
+        <instance familyname="Adobe Black VF" postscriptfontname="AdobeBlackVF-Regular" stylename="Regular">
             <location>
                 <dimension name="width" xvalue="0" />
                 <dimension name="height" xvalue="0" />
