@@ -1,0 +1,5 @@
+
+table vmtx {
+  VertOriginY glyph00001 880;
+  VertAdvanceY glyph00001 0;
+} vmtx;

@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ascender</key>
+	<integer>880</integer>
+	<key>descender</key>
+	<integer>-120</integer>
+	<key>xHeight</key>
+	<integer>0</integer>
+	<key>capHeight</key>
+	<integer>0</integer>
 	<key>postscriptFontName</key>
 	<string>AdobeBlank2VF</string>
 	<key>styleName</key>
@@ -18,6 +26,8 @@
 	<string>Regular</string>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-150</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-250</integer>

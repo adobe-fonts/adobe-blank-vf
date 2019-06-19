@@ -1,5 +1,4 @@
-Copyright 2013-2019 Adobe (http://www.adobe.com/). All rights
-reserved.
+Copyright 2013-2019 Adobe (http://www.adobe.com/).
 
 This Font Software is licensed under the SIL Open Font License,
 Version 1.1.
