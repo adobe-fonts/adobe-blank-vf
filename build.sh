@@ -9,7 +9,7 @@ function build_var_fonts {
 	otf_file=$DIR/$1.otf
 	ttf_file=$DIR/$1.ttf
 
-	buildmasterotfs --mkot -omitMacNames $dsgnsp_file
+	buildmasterotfs --mkot -omitMacNames -d $dsgnsp_file
 	buildcff2vf --omit-mac-names -d $dsgnsp_file
 
 	if [ $1 == 'AdobeBlackVF' ]
