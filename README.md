@@ -29,4 +29,4 @@ In this repository, all necessary files are in place for building the Variable F
 
 ## Getting Involved
 
-For any suggestions for changes, please [create a new issue](https://github.com/adobe-fonts/source-han-mono/issues) for consideration.
+For any suggestions for changes, please [create a new issue](https://github.com/adobe-fonts/adobe-blank-vf/issues) for consideration.
