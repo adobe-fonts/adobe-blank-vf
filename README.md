@@ -29,4 +29,4 @@ In this repository, all necessary files are in place for building the Variable F
 
 ## Getting Involved
 
-Send suggestions for changes to the Adobe Blank VF & Friends project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Adobe%20Blank%20VF), for consideration.
+For any suggestions for changes, please [create a new issue](https://github.com/adobe-fonts/source-han-mono/issues) for consideration.
